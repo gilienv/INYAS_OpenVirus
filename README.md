@@ -26,16 +26,24 @@ The three national Science Academies in India offer several two-month Summer Fel
 
 More on the Fellowships: https://web-japps.ias.ac.in:8443/fellowship2020/index.html
 
-## FAst SF Program of the Indian Science Academies
+## Focus Area Science Technology Summer Fellowship [FAST-SF] 
+With a view of enhance the spread of Science and Technology in the specific regions of the country, the Inter Academy Panel has initiated the Focus Area Science Technology Summer Fellowship [FAST-SF]. This year (2020) focus of the academies has been on the North Eastern States of the country and the states of Bihar, Chhattisgarh, Jammu & Kashmir, Jharkhand and Madhya Pradesh and the FAST-SF will be for students and teachers studying/working in the states of Arunachal Pradesh, Assam, Meghalaya, Manipur, Mizoram, Nagaland, Sikkim, Tripura, Bihar, Chhattisgarh, Jammu & Kashmir, Jharkhand and Madhya Pradesh. One of our OpenVirus Interns is a bright young Ph.D. student from Kashmir, Ms. Ambreen Hamdani!
 
+Moe at : https://web-japps.ias.ac.in:8443/fastsf2020/index.html
 
 ## TIGR2ESS
+The TIGR2ESS programme hopews to deliver our vision, in partnership with institutions in India, to improve Indian crop science and food security. 
+As an effort to adapt our plans to the ongoing COVID-19 pandemic, whilst almost all field and lab-related work has temporarily been suspended, TIGR2ESS partnered with INYAS to address the joint challenges of continuing to conduct world-class research during lockdown and enable students to gain skills and towards this, we have extended capacity building during the lockdown. 
 
+The Open Virus effort has enabled TIGFR2ESS to devise new research methods to facilitate engagement with communities during times of social distancing. We are open to new ideas and suggestions and will translate existing methods into accessible remote fieldwork tools, defining and developing best practice. We will also work hard to inform and shape food security and agricultural policy post-lockdown by working closely with our partners in India.
+
+More on TIGR2ESS: https://tigr2ess.globalfood.cam.ac.uk/
 
 ## OpenVirus
 
 The idea of OpenVirus is to create a digital knowledge-based project (i.e. no laboratory or clinical work). 
 It is open to all who are prepared to contribute components of the system.
+At present, this is a huge collaboration between various partners listed above as well as others in India, U.K and around the world!
 More inforation at https://github.com/petermr/openVirus
 
 ## How To Join!
