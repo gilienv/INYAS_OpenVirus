@@ -8,16 +8,23 @@ The Site and the Idea
 
 ## INYAS
 The Indian National Young Academy of Sciences (INYAS) is the national academy of young scientists from India, aiming to give a voice to young scientists across the country. Founded in 2015 in line with Die Junge Akademie of Germany, INYAS is the apex body of young scientists from India representing all branches of science, technology and medicine. INYAS is housed within its parent body, Indian National Science Academy and is affiliated with Global Young Academy as the national young academy of India. INYAS is also a signatory of the declaration on the Core Values of Young Academies, adopted at World Science Forum, Budapest on 20 November 2019.
+
 Link to INYAS: http://inyas.in/
+
 More on Wiki: https://en.wikipedia.org/wiki/INYAS
 
 ## KARYA (Knowledge Augmentation through Research in Young Aspirants)
 In APril 2020, INYAS received a request from the Dept of Science & Technology (DST), Govt of Rajasthan under their KARYA project (Knowledge Augmentation through Research in Young Aspirants) for providing an e-internship to students studying in Undergraduate and Postgraduate State Govt. Universities, State Govt. Colleges based on their topic of interest for 4 weeks. As a member of INYAS, Gitanjali Yadab took up mentorship of six INYAS-KARYA students, the idea was to groom them for their future and provide some basic knowledge on specific topics, connect them with other PhD/Postdoctoral fellows for motivation.mentorship. 
 Six students joined us in June 2020 on the Open Virus program and this page will showcase their achievements and experience!
+
 MOre at http://dst.rajasthan.gov.in/content/dst-gov/en/home.html
 
-## SRFP Program of the Indian Science Academies
+## Summer Research Fellowships (SRFP) Program of the Indian Science Academies
 
+The three national Science Academies in India offer several two-month Summer Fellowships to enable students/teachers (studying/teaching in India) to work with scientists associated with the three Academies during 2020. Successful Candidates are assigned to diverse laboratories after a stringent process of selection and this year, Gitanjali Yadav took up four of these candidates for the OpenVirus Program.
+
+
+More on the Fellowships: https://web-japps.ias.ac.in:8443/fellowship2020/index.html
 
 ## FAst SF Program of the Indian Science Academies
 
