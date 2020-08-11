@@ -11,7 +11,8 @@ On this page, you will find a short background on the OpenVirus Idea/concept and
   <img src="inyas_karya.jpeg" width="350" title="INYAS OpenVirus Team 2020!">
   <img src="openv.jpeg" width="350" alt="INYAS Open Virus Team 2020!">
 </p>
-## The Idea 
+
+## The Open Virus Idea 
 
 ## INYAS
 The Indian National Young Academy of Sciences (INYAS) is the national academy of young scientists from India, aiming to give a voice to young scientists across the country. Founded in 2015 in line with Die Junge Akademie of Germany, INYAS is the apex body of young scientists from India representing all branches of science, technology and medicine. INYAS is housed within its parent body, Indian National Science Academy and is affiliated with Global Young Academy as the national young academy of India. INYAS is also a signatory of the declaration on the Core Values of Young Academies, adopted at World Science Forum, Budapest on 20 November 2019.
