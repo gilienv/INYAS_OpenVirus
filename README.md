@@ -1,8 +1,10 @@
 # The INYAS OpenVirus Initiative 
 
 With the 2020 Global Lockdown due to the Coronvirus Pandemic, we have initiated a series of remote online internships to enable researchers in Biology to gain new skills and learn the best practices of a research environment using GitHub!   
+The OpenVirus project is a tribute to Open Science and Open Knowledge Initiatives. We have been meeting biweekly since the beginning of the Program and the entire process of learning, research, presenting and reporting has been documented online as an "Open Science" Best Practices Showcase for the world!
+More on this program and full documentation at https://github.com/petermr/openVirus
 
-On this page, you will find a short background on the program and relevant links to help you navigate further!
+On this page, you will find a short background on the OpenVirus Idea/concept and relevant links to help you navigate further!
 
 ## The People 
 <p align="center">
