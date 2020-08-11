@@ -6,8 +6,8 @@ On this page, you will find a short background on the program and relevant links
 
 ## The People 
 <p align="center">
-  <img src="openVpic" width="350" title="INYAS OpenVirus Team 2020!">
-  <img src="OpenVpic" width="350" alt="INYAS Open Virus Team 2020!">
+  <img src="Inyas_karya.jpeg" width="350" title="INYAS OpenVirus Team 2020!">
+  <img src="Inyas_karya.jpeg" width="350" alt="INYAS Open Virus Team 2020!">
 </p>
 ## The Idea 
 
