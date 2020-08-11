@@ -90,3 +90,8 @@ OpenVirus is based on the Open Notebook philosophy fo Jean-Claude Bradley and im
 Everything is posted publicly as soon as it is created. That means that every iteration is visible and will almost certainly contain bugs/errors. 
 
 Each subsequent commit fixes some of these. We know from past experience that this is the quickest way to create high-quality content and also gives a feeling of communal ownership.
+
+## Open Science and Capacity Building during COVID!
+The OpenVirus project is a tribute to Open Science and Open Knowledge Initiatives! The teams have been meeting biweekly since the beginning of the Program and the entire process of learning, research, presenting and reporting has been documented online as an "Open Science" Best Practices Showcase for the world! 
+
+More on this program and full documentation at https://github.com/petermr/openVirus
