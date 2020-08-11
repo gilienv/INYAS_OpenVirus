@@ -46,10 +46,10 @@ More on TIGR2ESS: https://tigr2ess.globalfood.cam.ac.uk/
 
 ## OpenVirus
 
-The idea of OpenVirus is to create a digital knowledge-based project (i.e. no laboratory or clinical work). 
+The idea of OpenVirus was a mindspark of Dr. Peter Murray-Rust - with the aim to create a digital knowledge-based project (i.e. no laboratory or clinical work). 
 It is open to all who are prepared to contribute components of the system.
 At present, this is a huge collaboration between various partners listed above as well as others in India, U.K and around the world!
-More inforation at https://github.com/petermr/openVirus
+More information and full documentation at https://github.com/petermr/openVirus
 
 ## How To Join!
 All are welcome to participate. We assume a basic level of running programs (commandline, R, text editing) and - initially - won't be able to hand hold. However we know from experience that people can learn very fast, so feel free to dive in and try the tech.
