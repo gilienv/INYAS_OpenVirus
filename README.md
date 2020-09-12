@@ -6,6 +6,11 @@ More on this program and full documentation at https://github.com/petermr/openVi
 
 On this page, you will find a short background on the OpenVirus Idea/concept and relevant links to help you navigate further!
 
+## Watch The OpenVirus Short Movie!
+https://www.youtube.com/watch?v=AXmqMMGiZUw
+
+This video clip entitled "Knowledge Extraction From Literature" has been fully designed, edited and scripted by the young undergraduate and graduate Interns of the INYAS-KARYA Program, mentored by trainees on the Indian Science Acadmies' SRFP and FAST-SF Programs, all working remotely,  yet together!
+
 ## The People 
 <p align="center">
   <img src="inyas_karya.jpeg" width="350" title="INYAS OpenVirus Team 2020!">
